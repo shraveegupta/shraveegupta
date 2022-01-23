@@ -10,7 +10,7 @@ Here are some ideas to get you started:
 - 👨‍🎓 Degree Pursuing ... B.Tech with specialization in CSE
 - 🌱 I’m currently learning ... JavaScript | Java 
 - 🌟 Programming Languages ... C | php 
-- 🔭 I’m currently working on ... website clone (spotify)
+- 🔭 I’m currently working on a project of ... website clone
 - ✅ HTML | CSS 
 - ⚡ Fun fact: ... I'm also good at graphic designing
 

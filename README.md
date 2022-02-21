@@ -12,5 +12,5 @@ Here are some ideas to get you started:
 - 🌟 Programming Languages ... C | php 
 - 🔭 I’m currently working on a project of ... HTML, CSS and JavaScript
 - ✅ HTML | CSS 
-- ⚡ Fun fact: ... I'm also good at graphic designing
+- ⚡ Apart from programming... I'm also good at graphic designing
 
